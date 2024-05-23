@@ -23,6 +23,7 @@ a {
   background-size: cover;
   color: black;
   text-align: center;
+  background-color: #f7f7f7;
 }
 
 .top-wrapper h1 {
@@ -163,6 +164,7 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+  background-color: #f7f7f7;
 }
 
 .message {
